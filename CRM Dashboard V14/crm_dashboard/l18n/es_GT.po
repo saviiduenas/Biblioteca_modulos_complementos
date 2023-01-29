@@ -1,0 +1,536 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* crm_dashboard
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0-20211006\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-18 14:33+0000\n"
+"PO-Revision-Date: 2022-04-18 09:05-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "&nbsp"
+msgstr ""
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid ""
+",&nbsp\n"
+"                                                    Team:"
+msgstr "                                                    Equipo:"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Achieved Won :&nbsp"
+msgstr "Logrado Ganado :&nbsp"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Activity:"
+msgstr "Actividad:"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Annual Target :&nbsp"
+msgstr "Objetivo anual :&nbsp"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Average Closing Time"
+msgstr "Tiempo promedio de cierre"
+
+#. module: crm_dashboard
+#: model:ir.actions.client,name:crm_dashboard.action_crm_lead_all_dashboard
+msgid "CRM"
+msgstr "CRM"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "CRM Activity"
+msgstr "Actividad de CRM"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "CRM Dashboard"
+msgstr "Panel de CRM"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_team__crm_lead_state_id
+msgid "CRM Lead"
+msgstr "Líder de CRM"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_lead__crm_manager_id
+msgid "CRM Manager"
+msgstr "Gerente de CRM"
+
+#. module: crm_dashboard
+#: model_terms:ir.ui.view,arch_db:crm_dashboard.view_users_form_inherit
+msgid "CRM dashboard"
+msgstr "Panel de CRM"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Count"
+msgstr "Contar"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Country"
+msgstr "País"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#: model:ir.ui.menu,name:crm_dashboard.menu_crm_dashboard_new
+#, python-format
+msgid "Dashboard"
+msgstr "Panel"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Difference :&nbsp"
+msgstr "Diferencia :&nbsp"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_lead__display_name
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_team__display_name
+#: model:ir.model.fields,field_description:crm_dashboard.field_res_users__display_name
+#: model:ir.model.fields,field_description:crm_dashboard.field_sale_order__display_name
+#: model:ir.model.fields,field_description:crm_dashboard.field_utm_campaign__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/js/dashboard_view.js:0
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Expected Revenue"
+msgstr "Los ingresos esperados"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Funnel Chart"
+msgstr "Gráfico de embudo"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_lead__id
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_team__id
+#: model:ir.model.fields,field_description:crm_dashboard.field_res_users__id
+#: model:ir.model.fields,field_description:crm_dashboard.field_sale_order__id
+#: model:ir.model.fields,field_description:crm_dashboard.field_utm_campaign__id
+msgid "ID"
+msgstr "ID"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Last 12 Months"
+msgstr "Últimos 12 meses"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Last 6 Months"
+msgstr "Últimos 6 meses"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_lead____last_update
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_team____last_update
+#: model:ir.model.fields,field_description:crm_dashboard.field_res_users____last_update
+#: model:ir.model.fields,field_description:crm_dashboard.field_sale_order____last_update
+#: model:ir.model.fields,field_description:crm_dashboard.field_utm_campaign____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Last Month"
+msgstr "El mes pasado"
+
+#. module: crm_dashboard
+#: model:ir.model,name:crm_dashboard.model_crm_lead
+msgid "Lead/Opportunity"
+msgstr "Iniciativa/Oportunidad"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Leads by Month"
+msgstr "Clientes potenciales por mes"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Leads group by Campaign"
+msgstr "Grupo de clientes potenciales por campaña"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Leads group by Medium"
+msgstr "Grupo de líderes por medio"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Leads group by Source"
+msgstr "Grupo de prospectos por fuente"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Lost Leads by Lost Reason"
+msgstr "Clientes potenciales perdidos por motivo perdido"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Lost Leads by Stage"
+msgstr "Clientes potenciales perdidos por etapa"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Lost Opportunity/Lead Graph"
+msgstr "Gráfico de oportunidad perdida/cliente potencial"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Lost Reason Analysis"
+msgstr "Análisis de razones perdidas"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Lost reason"
+msgstr "razón perdida"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_lead__achievement_amount
+msgid "Monthly Achievement"
+msgstr "Logro Mensual"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#: model:ir.model.fields,field_description:crm_dashboard.field_crm_lead__monthly_goal
+#, python-format
+msgid "Monthly Goal"
+msgstr "Meta Mensual"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/js/dashboard_view.js:0
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "My Leads"
+msgstr "Mis clientes potenciales"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "My Opportunities"
+msgstr "Mis oportunidades"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Name:"
+msgstr "Nombre:"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/js/dashboard_view.js:0
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Opportunity"
+msgstr "Oportunidad"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Opportunity Win Loss Ratio"
+msgstr "Proporción de pérdida de ganancia de oportunidad"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#: model_terms:ir.ui.view,arch_db:crm_dashboard.campaign_smart_button
+#, python-format
+msgid "Ratio"
+msgstr "Relación"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Recent Activities"
+msgstr "Actividades recientes"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/js/dashboard_view.js:0
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Revenue"
+msgstr "Ingresos"
+
+#. module: crm_dashboard
+#: model:ir.model,name:crm_dashboard.model_sale_order
+msgid "Sales Order"
+msgstr "Pedido de venta"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Sales Person"
+msgstr "Vendedor"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Sales Person:"
+msgstr "Vendedor:"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Sales Rep.:"
+msgstr "Representante de ventas:"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#: model:ir.model,name:crm_dashboard.model_crm_team
+#, python-format
+msgid "Sales Team"
+msgstr "Equipo de ventas"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Summary:"
+msgstr "Resumen:"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_res_users__sales
+msgid "Target"
+msgstr "Objetivo"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "This Month"
+msgstr "Este mes"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "This Quarter"
+msgstr "Este cuarto"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "This Week"
+msgstr "Esta semana"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "This Year"
+msgstr "Este año"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Top Country Wise Count"
+msgstr "Mejor Conde Sabio del País"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Top Country Wise Revenue"
+msgstr "Ingresos sabios del país superior"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Top Deals"
+msgstr "Mejores ofertas"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Top Lost Reason and Count"
+msgstr "Razón y número de pérdidas principales"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Top Sales Person by Invoice"
+msgstr "Mejor vendedor por factura"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Top Salesperson Revenue"
+msgstr "Ingresos de los principales vendedores"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Top Won vs Lost Ratio based on Country"
+msgstr "Proporción de ganancias vs. pérdidas más altas según el país"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Top Won vs Lost Ratio based on Sales Person"
+msgstr "Proporción de ganancias vs. pérdidas superior basada en el vendedor"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/sub_dashboard.xml:0
+#, python-format
+msgid "Top Won vs Lost Ratio based on Sales Team"
+msgstr "Proporción de ganancias vs. pérdidas superior basada en el equipo de ventas"
+
+#. module: crm_dashboard
+#: model:ir.model.fields,field_description:crm_dashboard.field_utm_campaign__total_ratio
+msgid "Total Ratio"
+msgstr "Relación total"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Total Revenue by Salesperson"
+msgstr "Ingresos totales por vendedor"
+
+#. module: crm_dashboard
+#: model:ir.model,name:crm_dashboard.model_utm_campaign
+msgid "UTM Campaign"
+msgstr "Campaña de UTM"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/js/dashboard_view.js:0
+#, python-format
+msgid "Unassigned Leads"
+msgstr "Clientes potenciales no asignados"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Unassigned Leads Count"
+msgstr "Recuento de clientes potenciales no asignados"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Upcoming Activities"
+msgstr "Próximas actividades"
+
+#. module: crm_dashboard
+#: model:ir.model,name:crm_dashboard.model_res_users
+msgid "Users"
+msgstr "Usuarios"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Win Ratio"
+msgstr "Proporción de victorias"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "Year to Date"
+msgstr "El año hasta la fecha"
+
+#. module: crm_dashboard
+#. openerp-web
+#: code:addons/crm_dashboard/static/src/xml/dashboard_view.xml:0
+#, python-format
+msgid "YtD Target :&nbsp"
+msgstr "Objetivo hasta la fecha:&nbsp"

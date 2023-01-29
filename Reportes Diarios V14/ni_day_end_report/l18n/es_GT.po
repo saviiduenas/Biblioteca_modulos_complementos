@@ -1,0 +1,263 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ni_day_end_report
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-19 19:07+0000\n"
+"PO-Revision-Date: 2022-04-19 13:16-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. module: ni_day_end_report
+#: model:mail.template,body_html:ni_day_end_report.ni_email_template_day_end_report
+msgid ""
+"\n"
+"\t\t\t\n"
+"\t\t\t\t<div style=\"font-family: 'Lucida Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: #FFF; \">\n"
+"\t\t\t\t    <p>Hello,</p>\n"
+"\t\t\t\t    <p>Day End Summary Report: </p>\n"
+"\n"
+"\n"
+"\t\t\t\t</div>\n"
+"            \n"
+"\t\t"
+msgstr ""
+"\n"
+"\t\t\t\n"
+"\t\t\t\t<div style=\"font-family: 'Lucida Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: #FFF; \">\n"
+"\t\t\t\t    <p>Hola,</p>\n"
+"\t\t\t\t    <p>Informe resumido del final del día: </p>\n"
+"\n"
+"\n"
+"\t\t\t\t</div>\n"
+"            \n"
+"\t\\"
+
+#. module: ni_day_end_report
+#: model:mail.template,subject:ni_day_end_report.ni_email_template_day_end_report
+msgid "${object.company_id.name} Day End Summary Report "
+msgstr "${object.company_id.name} Informe resumido del final del día"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<b>Product Shipment/Delivery Done </b>"
+msgstr "<b>Envío del producto/Entrega realizada</b>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Barcode</span>"
+msgstr "<span>Código de barras</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Count</span>"
+msgstr "<span>Cuenta</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Day End Summary Report</span>"
+msgstr "<span>Informe resumido al final del día</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Internal Refrence</span>"
+msgstr "<span>Referencia interna</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Name</span>"
+msgstr "<span>Nombre</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Quantity</span>"
+msgstr "<span>Cantidad</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Sr.No.</span>"
+msgstr "<span>No.</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Summary</span>"
+msgstr "<span>Resumen</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<span>Total Amount</span>"
+msgstr "<span>Importe total</span>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<strong>Date:</strong>"
+msgstr "<fuerte>Fecha:</fuerte>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.report_ni_day_end_summary_report_document
+msgid "<strong>Group By:</strong>"
+msgstr "<strong>Agrupar por:</strong>"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.ni_day_end_summary_report_view
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: ni_day_end_report
+#: model:ir.model,name:ni_day_end_report.model_res_company
+msgid "Companies"
+msgstr "Compañías"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__company_id
+msgid "Company"
+msgstr "Empresa"
+
+#. module: ni_day_end_report
+#: model:ir.model,name:ni_day_end_report.model_res_config_settings
+msgid "Config Settings"
+msgstr "Opciones de configuración"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__ni_date
+msgid "Date"
+msgstr "Fecha"
+
+#. module: ni_day_end_report
+#: model:ir.actions.act_window,name:ni_day_end_report.ni_action_day_end_summary_report
+#: model:ir.actions.report,name:ni_day_end_report.ni_day_end_summary_reports
+#: model:ir.model,name:ni_day_end_report.model_day_end_summary_report_wizard
+#: model:ir.ui.menu,name:ni_day_end_report.ni_day_end_summary_report_menu
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.ni_day_end_summary_report_view
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.ni_res_config_settings_view_form_day_end_report
+msgid "Day End Summary Report"
+msgstr "Informe resumido del final del día"
+
+#. module: ni_day_end_report
+#: model:mail.template,report_name:ni_day_end_report.ni_email_template_day_end_report
+msgid "Day End Summary Reports"
+msgstr "Informes resumidos al final del día"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__display_name
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_company__display_name
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings__display_name
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings__ni_enable_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.ni_res_config_settings_view_form_day_end_report
+msgid "Enable Day End Report Send By Mail"
+msgstr "Habilitar el envío del informe de fin de día por correo"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_company__ni_enable_day_end_report
+msgid "Enable Send Mail Daily Report"
+msgstr "Habilitar Enviar informe diario de correo"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__ni_report_by
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_company__ni_report_by
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings__ni_report_by
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__id
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_company__id
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings__id
+msgid "ID"
+msgstr "Identificación"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard____last_update
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_company____last_update
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización en"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings__ni_mail_template_id
+msgid "Mail Template"
+msgstr "Plantilla de correo"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__day_end_summary_report_wizard__ni_report_by__none
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__res_company__ni_report_by__none
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__res_config_settings__ni_report_by__none
+msgid "None"
+msgstr "Ninguno"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__day_end_summary_report_wizard__ni_report_by__partner
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__res_company__ni_report_by__partner
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__res_config_settings__ni_report_by__partner
+msgid "Partner"
+msgstr "Cliente"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.ni_day_end_summary_report_view
+msgid "Print"
+msgstr "Imprimir"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_day_end_summary_report_wizard__ni_product_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_company__ni_product_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings__ni_product_report
+msgid "Product IN / OUT"
+msgstr "Producto ENTRADA / SALIDA"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_company__ni_partner_ids
+#: model:ir.model.fields,field_description:ni_day_end_report.field_res_config_settings__ni_partner_ids
+msgid "Recipients"
+msgstr "Destinatarios"
+
+#. module: ni_day_end_report
+#: model:ir.actions.server,name:ni_day_end_report.scedular_send_end_day_report_ir_actions_server
+#: model:ir.cron,cron_name:ni_day_end_report.scedular_send_end_day_report
+#: model:ir.cron,name:ni_day_end_report.scedular_send_end_day_report
+msgid "Send Mail Day End Summary Report"
+msgstr "Informe de resumen de fin de día de envío de correo"
+
+#. module: ni_day_end_report
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__day_end_summary_report_wizard__ni_report_by__user
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__res_company__ni_report_by__user
+#: model:ir.model.fields.selection,name:ni_day_end_report.selection__res_config_settings__ni_report_by__user
+msgid "User"
+msgstr "Usuario"
+
+#. module: ni_day_end_report
+#: model_terms:ir.ui.view,arch_db:ni_day_end_report.ni_day_end_summary_report_view
+msgid "or"
+msgstr "o"
